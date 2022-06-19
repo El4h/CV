@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Elaheh Akbarifathkouhi
+![Image](src)
 
-You can use the [editor on GitHub](https://github.com/El4h/CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Objectives
+Goal-oriented and analytical researcher equipped with sharp mathematical and programming skills. Prepared to excel in cognition studies through adept research skills and sophisticated problem-solving abilities. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Academic Highlights
+Ecole Normale Supérieure, Paris, France
+Computational Neuroscience | 2020-2021 
 
-### Markdown
+Sapienza University, Rome, Italy
+M.Sc. Cognitive Neuroscience | 2019-2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Institute for Cognitive Science Studies, Tehran, Iran
+M.Sc. Cognitive Science | 2017-2019
 
-```markdown
-Syntax highlighted code block
+Amirkabir University of Technology (Polytechnic of Tehran), Tehran, Iran
+B.Sc. Chemical Engineering | 2008-2014
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Research Projects
 
-1. Numbered
-2. List
+### MAster's Thesis
+Laboratory of Brain Imaging | Department of Psychology
+Sapienza University of Rome 
+-  Functional Connectivity patterns of Fusiform Face Area and Occipital Face Area subregions in the ventral visual stream using a measure of distance correlation during resting-state fMRI recordings of Human Connectome Project
 
-**Bold** and _Italic_ and `Code` text
+[Link To Thesis Manuscript]([url](https://drive.google.com/file/d/13H-8ROEJl7Vpx2miNAtEBtec9BZkMoIN/view?usp=sharing)) 
 
-[Link](url) and ![Image](src)
-```
+### Internship
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Group for Neural Theory 
+Ecole Normale Superieure | July 2021 - Present
+- Mathematical modeling of PFC neurons using an extension of Wilson-Cowan model in working memory tasks
 
-### Jekyll Themes
+### Other small projects
+Laboratory of Neuroimaging | Department of Physiology and Pharmacology
+Sapienza University of Rome | September 2021 - December 2021 
+- Diffusion MRI analysis of White and Grey Matter Microstructural Changes Following "Quadrato Motor Training"
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/El4h/CV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Laboratory of Brain Imaging | Department of Psychology
+Sapienza University of Rome | February 2021- July 2021
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-  Investigating qualitative and quantitative differences in navigation strategies
+
+
+Laboratory of Brain Imaging | Department of Psychology
+Sapienza University of Rome | September 2020- January 2021
+-  Investigating if brain activation pattern during the n-back working memory task can predict remembering or not-remembering of the stimuli using fMRI
+
+
+## Trainings
+### Neuromatch Academy
+1. Student of Computational Neuroscience | 2020 
+2. Student of Deep Learning | 2022 
+
+### Institute for Cognitive Science Studies
+1. Comprehensive Course of Evaluation, Education and Treatment of Childhood and Adolescence Disorders
+2. Introduction to Experimental Design in Virtual Reality
+
+
+## Working Experiences
+1. Neuromatch Academy
+    Teacher assistant | 2021 
+
+2. Knowing Neuron 
+    Guest Contributor | 2021 
