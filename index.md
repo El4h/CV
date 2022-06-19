@@ -1,6 +1,8 @@
 # Elaheh Akbarifathkouhi
 ![Image](src)
 
+
+[Email] / Website / LinkedIn / GitHub / Twitter / DEV
 ## Objectives
 Goal-oriented and analytical researcher equipped with sharp mathematical and programming skills. Prepared to excel in cognition studies through adept research skills and sophisticated problem-solving abilities. 
 
@@ -25,7 +27,7 @@ Laboratory of Brain Imaging | Department of Psychology
 Sapienza University of Rome 
 -  Functional Connectivity patterns of Fusiform Face Area and Occipital Face Area subregions in the ventral visual stream using a measure of distance correlation during resting-state fMRI recordings of Human Connectome Project
 
-[Link To Thesis Manuscript]([url](https://drive.google.com/file/d/13H-8ROEJl7Vpx2miNAtEBtec9BZkMoIN/view?usp=sharing)) 
+[Link To Thesis Manuscript]([https://drive.google.com/file/d/13H-8ROEJl7Vpx2miNAtEBtec9BZkMoIN/view?usp=sharing]) 
 
 ### Internship
 
