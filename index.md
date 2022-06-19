@@ -1,5 +1,5 @@
 # Elaheh Akbarifathkouhi
-![Image](src)
+![Image](El4h/CV/docs/cv pic.png)
 
 
 [Email] / Website / LinkedIn / GitHub / Twitter / DEV
